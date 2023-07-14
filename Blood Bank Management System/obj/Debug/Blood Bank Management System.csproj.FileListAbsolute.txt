@@ -1,0 +1,36 @@
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.AssemblyReference.cache
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.SuggestedBindingRedirects.cache
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form1.resources
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.cache
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Hospital_Blood_Bank.resources
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Request_Blood.resources
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Send_a_Request.resources
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.View_Requests.resources
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Search_Blood.resources
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Donors.resources
+D:\Computers and Information (Level 3 'CS')\First Semester\Software Engineering\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Management.resources
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.AssemblyReference.cache
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.SuggestedBindingRedirects.cache
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Donors.resources
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Form1.resources
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Hospital_Blood_Bank.resources
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Management.resources
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Request_Blood.resources
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Search_Blood.resources
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Send_a_Request.resources
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.View_Requests.resources
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.cache
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.CoreCompileInputs.cache
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+D:\Studio 2022 Projects C#\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
